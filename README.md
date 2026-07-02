@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The AI Smart Posture Monitoring System is a real-time computer vision application developed using Python, OpenCV, and MediaPipe. It monitors a user's sitting posture through a webcam, detects poor posture and close screen distance, provides live warnings, and includes an Analysis Mode to visualize posture calculations and pose landmarks.
+The AI Smart Posture Monitoring System is a real-time computer vision application developed using Python, OpenCV, and MediaPipe. It monitors a user's sitting posture through a webcam, detects poor posture and close screen distance, provides live warnings, and includes an Analysis Mode to visualize pose landmarks.
 
 ---
 
